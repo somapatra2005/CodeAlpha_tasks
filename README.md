@@ -1,5 +1,5 @@
 # CodeAlpha_tasks
-stock portfolio tracker
+build a simple stock tracker that  calculates total investment based on manually defined stock  price
 <br>
-simple rulebased chatbot
-
+simple 
+bulid  a simple rulebased chatbot
